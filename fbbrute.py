@@ -1,3 +1,6 @@
+## fbbrute.py - Facebook Brute Force
+# - * - pengkodean: utf-8 - * -
+##
 impor  os
 impor  sys
 impor  urllib
